@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../public/profile.jpg";
+import profile from "/profile.jpg";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
 
 const SectionOne = () => {
